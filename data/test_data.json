@@ -1,0 +1,26 @@
+[
+        {
+            "platform" : {
+                "launch year" : 1989,
+                "name" : "Atari Lynx"
+            },
+            "title" : "Chip's Challenge",
+            "year" : 1989
+        },
+        {
+            "platform" : {
+                "launch year" : 2003,
+                "name" : "Steam"
+            },
+            "title" : "Chip’s Challenge 2",
+            "year" : 2015
+        },
+        {
+            "platform" : {
+                "launch year" : 1996,
+                "name" : "MS-DOS"
+            },
+            "title" : "Tower of the Sorcerer",
+            "year" : 1996
+        }
+]
